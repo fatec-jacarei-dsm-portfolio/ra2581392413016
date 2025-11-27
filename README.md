@@ -23,7 +23,6 @@
 
 
 🔗 Acesse o Portfólio:http://127.0.0.1:5500/ra2581392413016/docs/home.html
+
+
 🎤 Pitch de Apresentação:
-
-
-Repositório do aluno NICOLAS HENRIQUE SILVA DE OLIVEIRA.
