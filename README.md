@@ -1,5 +1,11 @@
-# ra2581392413016
-<img width="1907" height="948" alt="image" src="https://github.com/user-attachments/assets/2dd10c4f-59a2-4881-9899-65ba9a81406a" />
+# Portfólio de Projetos - Fatec Jacareí
+### Aluno: Nicolas Henrique Silva de Oliveira
+### Curso: Desenvolvimento de Software Multiplataforma
+### Turma: 4o. Semestre de 2025
+
+### Portfólio Online  
+
+ <img width="1907" height="948" alt="image" src="https://github.com/user-attachments/assets/2dd10c4f-59a2-4881-9899-65ba9a81406a" />
 
 <img width="1887" height="941" alt="image" src="https://github.com/user-attachments/assets/d9aa64fc-4b96-4989-96c9-a0662902332f" />
 
@@ -14,6 +20,10 @@
 
 
 <img width="1895" height="797" alt="image" src="https://github.com/user-attachments/assets/b9eeac1e-a8c4-413b-b752-0d82dfc37104" />
+
+
+🔗 Acesse o Portfólio:http://127.0.0.1:5500/ra2581392413016/docs/home.html
+🎤 Pitch de Apresentação:
 
 
 Repositório do aluno NICOLAS HENRIQUE SILVA DE OLIVEIRA.
