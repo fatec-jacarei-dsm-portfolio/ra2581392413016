@@ -22,7 +22,7 @@
 <img width="1895" height="797" alt="image" src="https://github.com/user-attachments/assets/b9eeac1e-a8c4-413b-b752-0d82dfc37104" />
 
 
-🔗 Acesse o Portfólio:http://127.0.0.1:5500/ra2581392413016/docs/home.html
+🔗 Acesse o Portfólio:http:[//127.0.0.1:5500/ra2581392413016/docs/home.html](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392413016/)
 
 
 🎤 Pitch de Apresentação:
