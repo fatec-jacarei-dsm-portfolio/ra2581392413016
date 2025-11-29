@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Projetos - NICOLAS HENRIQUE</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            color: #0d1b2a;
+        }
+
+        .nav {
+            position: fixed;
+            top: 0;
+            right: 0;
+            background-color: #e9f2ff;
+            padding: 10px 20px;
+            border-bottom-left-radius: 10px;
+            z-index: 1000;
+        }
+
+        .nav a {
+            color: #0d1b2a;
+            text-decoration: none;
+            margin-left: 20px;
+            font-weight: bold;
+        }
+
+        .container {
+            padding: 100px 40px 40px;
+            text-align: left;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .projects-grid {
+            display: flex;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+
+        .project-card {
+            width: 300px;
+        }
+
+        .project-card img {
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        }
+
+        .project-description {
+            background-color: #e9f2ff;
+            padding: 8px;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+
+        .project-description a {
+            color: #0d1b2a;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="nav">
+        <a href="index.html">Home</a>
+        <a href="projetos.html">Projetos</a>
+    </div>
+
+    <div class="container">
+        <h1>Projetos</h1>
+
+        <div class="projects-grid">
+
+            <!-- Hardstop -->
+            <div class="project-card">
+                <a href="scrum.html">
+                    <img src="scrum_certificado.png" alt="Scrum">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor focado no frontend do Hardstop:  
+                    <a href="https://github.com/frevisto/hardstop" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+            <!-- NutriWise -->
+            <div class="project-card">
+                <a href="nutriwise.html">
+                    <img src="nutriwise_logo.png" alt="NutriWise">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor do grupo NutriWise:  
+                    <a href="https://github.com/WiseBuilders/Nutri-Wise" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+            <!-- Njord -->
+            <div class="project-card">
+                <a href="njord.html">
+                    <img src="njord_logo.png" alt="Njord">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor no projeto Njord:
+                    <a href="https://github.com/InovatechLabs/NJORD" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+            <!-- SafeTemp -->
+            <div class="project-card">
+                <a href="safetemp.html">
+                    <img src="safetemp_logo.png" alt="SafeTemp">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor no projeto SafeTemp:
+                    <a href="https://github.com/InovatechLabs/SafeTemp" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
