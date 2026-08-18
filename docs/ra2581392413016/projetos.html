@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Projetos - NICOLAS HENRIQUE SILVA DE OLIVEIRA</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #ffffff;
+            color: #0d1b2a;
+        }
+
+        .nav {
+            position: fixed;
+            top: 0;
+            right: 0;
+            background-color: #e9f2ff;
+            padding: 10px 20px;
+            border-bottom-left-radius: 10px;
+            z-index: 1000;
+        }
+
+        .nav a {
+            color: #0d1b2a;
+            text-decoration: none;
+            margin-left: 20px;
+            font-weight: bold;
+        }
+
+        .nav a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            padding: 100px 60px 60px;
+            min-height: 100vh;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            font-size: 2.4em;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .projects-grid {
+            display: flex;
+            justify-content: center;
+            gap: 60px;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .project-card {
+            max-width: 320px;
+            text-align: center;
+        }
+
+        .project-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 12px;
+            background-color: #fff;
+            padding: 4px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            transition: transform 0.3s ease;
+        }
+
+        .project-card img:hover {
+            transform: scale(1.03);
+        }
+
+        .project-description {
+            background-color: #e9f2ff;
+            padding: 10px 15px;
+            font-size: 1em;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+
+        .project-description a {
+            color: #0d1b2a;
+            text-decoration: none;
+        }
+
+        .project-description a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <a href="home.html">Home</a>
+        <a href="projetos.html">Projetos</a>
+    </div>
+
+    <div class="container">
+        <h1>Projetos</h1>
+
+        <div class="projects-grid">
+
+            <!-- SCRUM -->
+            <div class="project-card">
+                <a href="scrum.html">
+                    <img src="scrum_certificado.png" alt="Certificado Scrum Master">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor focado em frontend do Hardstop:
+                    <a href="https://github.com/frevisto/hardstop?tab=readme-ov-file" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+            <!-- NUTRIWISE -->
+            <div class="project-card">
+                <a href="nutriwise.html">
+                    <img src="nutriwise_logo.png" alt="NutriWise Logo">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor do grupo NutriWise:
+                    <a href="https://github.com/WiseBuilders/Nutri-Wise" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+            <!-- NJORD -->
+            <div class="project-card">
+                <a href="njord.html">
+                    <img src="njord_logo.png" alt="Njord Logo">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor no projeto Njord:
+                    <a href="https://github.com/InovatechLabs/NJORD" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+            <!-- SAFETEMP -->
+            <div class="project-card">
+                <a href="safetemp.html">
+                    <img src="safetemp_logo.png" alt="SafeTemp Logo">
+                </a>
+                <div class="project-description">
+                    Desenvolvedor no projeto SafeTemp:
+                    <a href="https://github.com/InovatechLabs/SafeTemp" target="_blank">ver no GitHub</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
