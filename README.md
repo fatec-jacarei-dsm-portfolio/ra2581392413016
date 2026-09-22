@@ -1,28 +1,22 @@
 # Portfólio de Projetos - Fatec Jacareí
-### Aluno: Nicolas Henrique Silva de Oliveira
-### Curso: Desenvolvimento de Software Multiplataforma
-### Turma: 4o. Semestre de 2025
 
-### Portfólio Online  
+**Aluno:** Nicolas Henrique Silva de Oliveira
+**Curso:** Desenvolvimento de Software Multiplataforma
+**Turma:** 4o. Semestre de 2025
 
- <img width="1907" height="948" alt="image" src="https://github.com/user-attachments/assets/2dd10c4f-59a2-4881-9899-65ba9a81406a" />
+---
 
-<img width="1887" height="941" alt="image" src="https://github.com/user-attachments/assets/d9aa64fc-4b96-4989-96c9-a0662902332f" />
+**Portfólio Online**
 
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392413016/)
 
-<img width="1900" height="877" alt="image" src="https://github.com/user-attachments/assets/011ecf09-6835-48ae-b130-a82c028c1594" />
+---
 
+**Vídeos de Apresentação**
 
-<img width="1914" height="919" alt="image" src="https://github.com/user-attachments/assets/b88bb094-73d5-45d1-b5d0-d6e5a5e67e1f" />
-
-
-<img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/2ec4930e-26e5-4e77-97c0-9499ff87afda" />
-
-
-<img width="1895" height="797" alt="image" src="https://github.com/user-attachments/assets/b9eeac1e-a8c4-413b-b752-0d82dfc37104" />
+🎤 1DSM - [Vídeo](https://youtu.be/8-p9REymUoM)
+🎤 2DSM - [Vídeo](https://youtu.be/sWEyWs0NHBc?is=AwwQLxVPUmcv8GYh)
+🎤 3DSM - [Vídeo](https://youtu.be/CR6qvF-dUJ4?is=tsNVgIXt5b6OeJoq)
+🎤 4DSM - [Vídeo](https://youtu.be/NuNuwA3JI0M?is=ktgU6gKPT2QgHx2z)
 
 
-🔗 Acesse o Portfólio:http:[//127.0.0.1:5500/ra2581392413016/docs/home.html](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392413016/)
-
-
-🎤 Pitch de Apresentação:
